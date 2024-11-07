@@ -1,5 +1,5 @@
-Para instalar as dep
+Para instalar as dep:
 npm i amqplib 
 
-Para subir o docker
+Para iniciar o docker:
 docker-compose up -d
